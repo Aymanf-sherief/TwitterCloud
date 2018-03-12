@@ -1,0 +1,10 @@
+{
+    "consumer": {
+        "key": "xxxxxxxxxxxxxxxxxx",
+        "secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    },
+    "access": {
+        "key": "xxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    }
+}
