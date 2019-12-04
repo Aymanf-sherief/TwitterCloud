@@ -15,4 +15,4 @@ first run will check for (and create) a .json config file,
 
 use it to give your twitter api keys to the script - [how to create a twitter app](http://docs.inboundnow.com/guide/create-twitter-application/)
 
-enter the handle if the desired account. and that's it.
+enter the handle of the desired account. and that's it.
